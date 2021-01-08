@@ -18,7 +18,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 <p>The image below is a link. Try to click on it.</p>
 
-<a href="http://forms.office.com/Pages/ResponsePage.aspx?id=QWJ9SRo5d0KRrL3SqZ9wVLLKMQuYCnlBsu6Qt-vCucpUMkVTUUhWNzM0RThPM0xOQUNTQzk0NkY0Qy4u&qrcode=true"><img src="https://www.signaturehardware.com/media/catalog/product/cache/1/image/1500x/9df78eab33525d08d6e5fb8d27136e95/5/1/517963-21-elongated-two-piece-toilet-open.jpg" alt="Toilet" style="width:300px;height:300px;"></a>
+<a href="http://forms.office.com/Pages/ResponsePage.aspx?id=QWJ9SRo5d0KRrL3SqZ9wVLLKMQuYCnlBsu6Qt-vCucpUMkVTUUhWNzM0RThPM0xOQUNTQzk0NkY0Qy4u&qrcode=true"><img src="https://cdn2.iconfinder.com/data/icons/home-appliances-furnitures/100/toilet-512.png" alt="Toilet" style="width:300px;height:300px;"></a>
 
 </body>
 </html>
@@ -30,7 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 <p>The image below is a link. Try to click on it.</p>
 
-<a href="default.asp"><img src="" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+<a href="https://skyward-fbprod.iscorp.com/scripts/wsisa.dll/WService=wsedufortbendtx/seplog01.w"><img src="https://3.files.edl.io/f024/20/08/17/142812-48959c4e-e3b1-43b4-aa2e-781c8d515c0d.png" alt="HTML tutorial" style="width:300px;height:300px;"></a>
 
 </body>
 </html>
