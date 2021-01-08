@@ -31,8 +31,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 <widgetbot
-  server="299881420891881473"
-  channel="355719584830980096"
+  server="774488860205252648"
+  channel="774492011545231400"
   width="800"
   height="600"
 ></widgetbot>
