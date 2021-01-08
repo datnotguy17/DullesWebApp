@@ -30,24 +30,17 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-<div class="wrap">
-  <div class="name--header">
-    <div class="name"></div>
+<html>
+<body>
 
-    <div class="discord">
- 
-      <a href="https://discordapp.com/" class="discord--link" target='_blank'>Powered By: <img src="https://discordapp.com/assets/4f004ac9be168ac6ee18fc442a52ab53.svg" alt="" /></a>
-    </div>
-  </div>
-  <div class="channels">
-    <div class="channels--header">Channels</div>
-    <div class="channels--body"></div>
-  </div>
-  <div class="users">
-    <div class="users--header">Online Users</div>
-    <div class="users--body"></div>
-  </div>
-</div>
+<h2>Image as a Link</h2>
+
+<p>The image below is a link. Try to click on it.</p>
+
+<a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+
+</body>
+</html>
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/datnotguy17/DullesWebApp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
