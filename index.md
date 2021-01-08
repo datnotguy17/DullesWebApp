@@ -14,7 +14,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 <html>
 <body>
 
-<h2>Image as a Link</h2>
+<h2>Restroom Pass</h2>
 
 <p>The image below is a link. Try to click on it.</p>
 
@@ -26,7 +26,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 <html>
 <body>
 
-<h2>Image as a Link</h2>
+<h2>FBISD Skyward</h2>
 
 <p>The image below is a link. Try to click on it.</p>
 
