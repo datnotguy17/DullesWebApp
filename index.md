@@ -28,8 +28,6 @@ This is an unofficial website where you can find links to certain services maint
 </body>
 </html>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/datnotguy17/DullesWebApp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
 Having trouble with Pages? Message me on Discord or contact my Github.
