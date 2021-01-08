@@ -11,14 +11,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-<widgetbot
-  server="299881420891881473"
-  channel="355719584830980096"
-  width="800"
-  height="600"
-></widgetbot>
-<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
-
 # Header 1
 ## Header 2
 ### Header 3
@@ -37,6 +29,14 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
+
+<widgetbot
+  server="299881420891881473"
+  channel="355719584830980096"
+  width="800"
+  height="600"
+></widgetbot>
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/datnotguy17/DullesWebApp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
