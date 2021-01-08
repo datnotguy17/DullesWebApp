@@ -18,7 +18,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 <p>The image below is a link. Try to click on it.</p>
 
-<a href="default.asp"><img src="https://www.signaturehardware.com/media/catalog/product/cache/1/image/1500x/9df78eab33525d08d6e5fb8d27136e95/5/1/517963-21-elongated-two-piece-toilet-open.jpg" alt="http://google.com" style="width:300px;height:300px;"></a>
+<a href="http://google.com"><img src="https://www.signaturehardware.com/media/catalog/product/cache/1/image/1500x/9df78eab33525d08d6e5fb8d27136e95/5/1/517963-21-elongated-two-piece-toilet-open.jpg" alt="Toilet" style="width:300px;height:300px;"></a>
 
 </body>
 </html>
