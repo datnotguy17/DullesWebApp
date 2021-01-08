@@ -1,4 +1,4 @@
-## Welcome to the unofficial Dulles Web App
+## Welcome to the Unofficial Dulles Web App
 
 <iframe src="http://free.timeanddate.com/clock/i7mibzmz/n104/fn6/tt0/tw0/tm1/ts1/tb4" frameborder="0" width="91" height="36"></iframe>
 
@@ -16,7 +16,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 <h2>Restroom Pass</h2>
 
-<p>The image below is a link. It will redirect you to the restroom pass form, no QR Code required!.</p>
+<p>The image below is a link. It will redirect you to the restroom pass form, no QR Code required!</p>
 
 <a href="http://forms.office.com/Pages/ResponsePage.aspx?id=QWJ9SRo5d0KRrL3SqZ9wVLLKMQuYCnlBsu6Qt-vCucpUMkVTUUhWNzM0RThPM0xOQUNTQzk0NkY0Qy4u&qrcode=true"><img src="https://cdn2.iconfinder.com/data/icons/home-appliances-furnitures/100/toilet-512.png" alt="Toilet" style="width:300px;height:300px;"></a>
 
