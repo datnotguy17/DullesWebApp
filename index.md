@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 ## Welcome to the Unofficial Dulles Web App
 
 *What is this?*
