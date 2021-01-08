@@ -4,28 +4,6 @@ You can use the [editor on GitHub](https://github.com/datnotguy17/DullesWebApp/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
@@ -37,7 +15,19 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 <p>The image below is a link. Try to click on it.</p>
 
-<a href="default.asp"><img src="https://www.signaturehardware.com/media/catalog/product/cache/1/image/1500x/9df78eab33525d08d6e5fb8d27136e95/5/1/517963-21-elongated-two-piece-toilet-open.jpg" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+<a href="default.asp"><img src="https://www.signaturehardware.com/media/catalog/product/cache/1/image/1500x/9df78eab33525d08d6e5fb8d27136e95/5/1/517963-21-elongated-two-piece-toilet-open.jpg" alt="HTML tutorial" style="width:300px;height:300px;"></a>
+
+</body>
+</html>
+
+<html>
+<body>
+
+<h2>Image as a Link</h2>
+
+<p>The image below is a link. Try to click on it.</p>
+
+<a href="default.asp"><img src="" alt="HTML tutorial" style="width:42px;height:42px;"></a>
 
 </body>
 </html>
