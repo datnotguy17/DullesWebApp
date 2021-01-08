@@ -16,7 +16,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 <h2>Restroom Pass</h2>
 
-<p>The image below is a link. Try to click on it.</p>
+<p>The image below is a link. It will redirect you to the restroom pass form, no QR Code required!.</p>
 
 <a href="http://forms.office.com/Pages/ResponsePage.aspx?id=QWJ9SRo5d0KRrL3SqZ9wVLLKMQuYCnlBsu6Qt-vCucpUMkVTUUhWNzM0RThPM0xOQUNTQzk0NkY0Qy4u&qrcode=true"><img src="https://cdn2.iconfinder.com/data/icons/home-appliances-furnitures/100/toilet-512.png" alt="Toilet" style="width:300px;height:300px;"></a>
 
@@ -28,7 +28,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 <h2>FBISD Skyward</h2>
 
-<p>The image below is a link. Try to click on it.</p>
+<p>The image below is a link. It will redirect you to Skyward.</p>
 
 <a href="https://skyward-fbprod.iscorp.com/scripts/wsisa.dll/WService=wsedufortbendtx/seplog01.w"><img src="https://3.files.edl.io/f024/20/08/17/142812-48959c4e-e3b1-43b4-aa2e-781c8d515c0d.png" alt="HTML tutorial" style="width:300px;height:300px;"></a>
 
