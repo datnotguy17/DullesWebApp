@@ -32,6 +32,8 @@ This is an unofficial website where you can find links to certain services maint
 
 ### Support or Contact
 
+Having trouble with Pages? Message me on Discord or contact my Github.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GbM9RSvElzA?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Having trouble with Pages? Message me on Discord or contact my Github.
+Love you <3
