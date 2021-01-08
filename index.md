@@ -32,7 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 <widgetbot
   server="774488860205252648"
-  channel="774492011545231400"
+  channel=""
   width="800"
   height="600"
 ></widgetbot>
